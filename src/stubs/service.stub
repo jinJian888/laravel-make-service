@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * User  : JinJian
+ * Class : {{ class }}
+ * Date  : {{ dateTime }}
+ * Desc  :
+ */
+
+namespace {{ namespace }};
+
+class {{ class }}
+{
+
+}

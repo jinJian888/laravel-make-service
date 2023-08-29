@@ -1,0 +1,22 @@
+{
+    "name": "jiange/laravel-make-service",
+    "description": "this is create service by command",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": ">=8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jiange\\LaravelMakeService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "金剑",
+            "email": "511074600@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
