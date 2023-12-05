@@ -3,6 +3,10 @@
 * 此 package 仅适用于 laravel 框架
 * laravel 版本要求大于等于 8.0
 
+```shell
+    composer require jiange/laravel-make-service
+```
+
 首先，确保已经将你的 Composer 包安装到了 Laravel 项目中，并且在 composer.json 文件中正确地配置了包的信息。
 
 接下来，打开你的 Laravel 项目的控制台（终端）并运行 composer dump-autoload 命令，以确保 Composer 已经正确地加载了你的自定义命令文件。
